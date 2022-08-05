@@ -1,0 +1,41 @@
+.navbar{
+    width: 100%;
+    height: 100%;
+    background-color: #121619;
+    display: flex;
+    flex-direction: row;
+}
+.navbar .leftside{
+    flex: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 150px;
+}
+.navbar .leftside img{
+    width: 70px;
+}
+.navbar .rightside{
+    flex: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+}
+.navbar .rightside button{
+    
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.navbar .rightside svg{
+    font-size: 40px;
+}
+.righttside{
+    margin-top: 15px;
+}

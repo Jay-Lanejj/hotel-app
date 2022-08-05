@@ -1,0 +1,18 @@
+.box{
+    margin-left: 15px;
+    width: 50%;
+    border: 1px solid black;
+}
+.box img{
+    width:200px;
+    height:200px
+}
+.book-btn{
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 25px;
+    border-radius: 8px;
+    background-color: #9b959b;
+    cursor: pointer;
+}
